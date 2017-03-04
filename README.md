@@ -1,4 +1,3 @@
-Warning18-
 -- X-Art
 howardshammer
 dazed696
